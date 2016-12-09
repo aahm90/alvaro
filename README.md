@@ -1,3 +1,3 @@
 # alvaro
 
-este es mi Primer Primer Proyecto en Github.
+este es mi Primer  Proyecto en Github.
